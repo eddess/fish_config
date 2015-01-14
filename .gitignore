@@ -1,0 +1,5 @@
+# Ignore history file
+fish_history
+
+# Ignore daemon file
+fishd*
